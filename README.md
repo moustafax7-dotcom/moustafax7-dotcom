@@ -6,9 +6,7 @@
 
 <details>
 <h1>👋 Hi, I'm Moustafa Mahmoud</h1>
-<h3>Front-End Developer 💻 |
-  Business & Technology Enthusiast 🎯</h3>
-
+<h3>Front-End Developer 💻 | Business & Technology Enthusiast 🎯</h3>
 </div>
 
 ---
