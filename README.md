@@ -48,12 +48,12 @@ I love exploring new technologies — especially within the JavaScript ecosystem
 ```dart
 class AboutMe { 
   final myTools = {  
-    "ProgrammingLanguages" : { "JavaScript" },
+    "ProgrammingLanguages" : { "C++", "JavaScript" },
     "MarkupStyles" : { "HTML", "CSS" },
     "Frameworks" : { "React" },
-    "Database" : { "SQLite" },
+    "Database" : { "SQL Server" },
     "Editors" : { "VSCode" },
-    "Platforms" : { "GNU/Linux", "Windows" },
+    "Platforms" : { "Linux", "Windows" },
     "OtherTools" : { "Git", "Figma" }
   };
 
